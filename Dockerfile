@@ -1,3 +1,1 @@
-https://github.com/MHSanaei/3x-ui.git
-cd 3x-ui
-docker compose up -d
+FROM ghcr.io/mhsanaei/3x-ui:latest
